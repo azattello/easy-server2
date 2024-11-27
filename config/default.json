@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:wbUoLZxB1OiL7att@easycargo.y2gbijv.mongodb.net/?retryWrites=true&w=majority&appName=easycargo",
+    "secretKey" : "mern-secret-key"
+}
